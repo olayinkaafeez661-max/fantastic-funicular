@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+    flex-direction: row;
+}
+
+
+@media screen and (max-width:750px) {
+  .ken{
+    display: none;
+  }
+  
+}
